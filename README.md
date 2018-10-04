@@ -1,5 +1,5 @@
 # CSNewbie.com
-### An Open Source Resource Website
+### An Open Source Resource Website for Computer Science
 
 # Resources
 **Books**
