@@ -6,4 +6,4 @@
 
 
 # Contribute
-https://github.com/SpakMedia/CSNewbie.com
+[https://github.com/SpakMedia/CSNewbie.com](https://github.com/SpakMedia/CSNewbie.com)
