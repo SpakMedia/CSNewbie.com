@@ -1,9 +1,6 @@
 # CSNewbie.com
 ### An Open Source Resource Website for Computer Science
 
-# Resources
-**Books**
-
 # Notes With Examples
 
 [Harvard CS50](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uVbmox-s0PCssse5VKGkWh)
@@ -68,6 +65,9 @@ if 1 person remains then
 **To-to-date CS50 Resources**
 [cs50.net](http://cs50.net)
 ---
+
+# Resources
+**Books**
 
 ## FAQ
 **Q:** How do you want the content placed on the site? Links to PDFs, PDFs themselves, or links to where to buy the books? I have a ton of PDFs but not sure how you feel about posting free material online that authors would probably prefer be acquired through regular purchase
